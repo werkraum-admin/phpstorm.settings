@@ -1,0 +1,13 @@
+<application>
+  <component name="FileTypeManager" version="16">
+    <extensionMap>
+      <mapping pattern="JobMarketCommandController" type="PHP" />
+      <mapping ext="ical" type="PLAIN_TEXT" />
+      <mapping ext="xlf" type="PLAIN_TEXT" />
+      <removed_mapping ext="ts" type="TypeScript" />
+      <mapping pattern="*setup.txt" type="TypoScript File" />
+      <mapping pattern="*constant.txt" type="TypoScript File" />
+      <mapping ext="ts" type="TypoScript File" />
+    </extensionMap>
+  </component>
+</application>

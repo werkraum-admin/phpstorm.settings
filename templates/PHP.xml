@@ -1,0 +1,41 @@
+<templateSet group="PHP">
+  <template name="if" value="if($condition$) {&#10;    $END$&#10;}" description="Simple IF construct" toReformat="true" toShortenFQNames="true">
+    <variable name="condition" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="PHP" value="true" />
+    </context>
+  </template>
+  <template name="elseif" value="elseif($condition$) {&#10;    $END$&#10;}" description="elseif statement" toReformat="true" toShortenFQNames="true">
+    <variable name="condition" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="PHP" value="true" />
+    </context>
+  </template>
+  <template name="switch" value="switch($case$) {&#10;    case $case1$: $statement1$&#10;        break;&#10;    default: $END$&#10;        break;&#10;}" description="Simple switch statement" toReformat="true" toShortenFQNames="true">
+    <variable name="case" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="case1" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="statement1" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="PHP" value="true" />
+    </context>
+  </template>
+  <template name="ifelse" value="if ($condition$) {&#10;    $body1$&#10;} else {&#10;    $END$&#10;}" description="if/else statement" toReformat="true" toShortenFQNames="true">
+    <variable name="condition" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="body1" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="PHP" value="true" />
+    </context>
+  </template>
+  <template name="db" value="/**&#10; * @var \TYPO3\CMS\Core\Database\DatabaseConnection $db&#10; */&#10;$db = $GLOBALS['TYPO3_DB'];&#10;$RES$ = $db-&gt;exec_SELECTquery(&#10;    &quot;$SELECT$&quot;,&#10;    &quot;$FROM$&quot;,&#10;    &quot;$WHERE$&quot;,&#10;    &quot;$GROUPBY$&quot;,&#10;    &quot;$ORDERBY$&quot;,&#10;    &quot;$LIMIT$&quot;&#10;);" description="TYPO3 Database Snippet" toReformat="true" toShortenFQNames="true">
+    <variable name="RES" expression="" defaultValue="&quot;$res&quot;" alwaysStopAt="true" />
+    <variable name="SELECT" expression="" defaultValue="&quot;select&quot;" alwaysStopAt="true" />
+    <variable name="FROM" expression="" defaultValue="&quot;from&quot;" alwaysStopAt="true" />
+    <variable name="WHERE" expression="" defaultValue="&quot;where&quot;" alwaysStopAt="true" />
+    <variable name="GROUPBY" expression="" defaultValue="&quot;groupby&quot;" alwaysStopAt="true" />
+    <variable name="ORDERBY" expression="" defaultValue="&quot;orderby&quot;" alwaysStopAt="true" />
+    <variable name="LIMIT" expression="" defaultValue="&quot;limit&quot;" alwaysStopAt="true" />
+    <context>
+      <option name="PHP" value="true" />
+    </context>
+  </template>
+</templateSet>

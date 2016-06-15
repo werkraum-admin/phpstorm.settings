@@ -77,14 +77,14 @@
       <envs />
     </TaskOptions>
     <TaskOptions isEnabled="true">
-      <option name="arguments" value="$FileName$" />
+      <option name="arguments" value="$USER_HOME$/Netzwerk/Starface/jade.werkraum.lan/httpdocs/PRODATA/Resources/Public/less/all.less" />
       <option name="checkSyntaxErrors" value="true" />
       <option name="description" value="Compiles .less files into .css files" />
       <option name="exitCodeBehavior" value="ERROR" />
       <option name="fileExtension" value="less" />
       <option name="immediateSync" value="true" />
       <option name="name" value="Less" />
-      <option name="output" value="$FileParentDir$/css/$FileNameWithoutExtension$.css" />
+      <option name="output" value="$USER_HOME$/Netzwerk/Starface/jade.werkraum.lan/httpdocs/PRODATA/Resources/Public/css/all.css" />
       <option name="outputFilters">
         <array>
           <FilterInfo>
@@ -98,7 +98,7 @@
       <option name="program" value="$USER_HOME$/node_modules/.bin/lessc" />
       <option name="scopeName" value="Project Files" />
       <option name="trackOnlyRoot" value="false" />
-      <option name="workingDir" value="$FileDir$" />
+      <option name="workingDir" value="$USER_HOME$/Netzwerk/Starface/jade.werkraum.lan/httpdocs/PRODATA/Resources/Public/less" />
       <envs />
     </TaskOptions>
   </component>

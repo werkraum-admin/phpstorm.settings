@@ -47,6 +47,12 @@
     <option name="SEND_ENVIRONMENT_VARIABLES_TO_SERVER" value="false" />
     <option name="SHOW_PATH" value="true" />
   </component>
+  <component name="NodeJsLocalInterpreters">
+    <local-interpreter path="$USER_HOME$/.nvm/versions/node/v6.2.1/bin/node">
+      <version-cache version="6.2.1" last-modified="1464903694000" />
+      <npm-package value="$USER_HOME$/.nvm/versions/node/v6.2.1/bin" />
+    </local-interpreter>
+  </component>
   <component name="PhpRefactoringSettings">
     <option name="EXTRACT_METHOD_DEFAULT_VISIBILITY" value="private" />
   </component>

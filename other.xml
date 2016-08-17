@@ -56,4 +56,20 @@
   <component name="PhpRefactoringSettings">
     <option name="EXTRACT_METHOD_DEFAULT_VISIBILITY" value="private" />
   </component>
+  <component name="RecentTaskRepositories">
+    <JIRA shared="false" url="https://werkraum.atlassian.net">
+      <option name="apiType" value="REST_2_0" />
+      <commitMessageFormat>{id} {summary}</commitMessageFormat>
+      <password>dfdddfcfdfd8dfc1dfd8dfcbdfdfdfc7dfc0dfc3dfd8dfcbdf99df9ddf9adf92</password>
+      <option name="jiraVersion" value="1000.253.3" />
+      <option name="loginAnonymously" value="false" />
+      <option name="preferredCloseTaskState" />
+      <option name="preferredOpenTaskState" />
+      <option name="searchQuery" value="status in (Open, Reopened, &quot;Warten auf den Start&quot;, &quot;lokale Entwicklung abgeschlossen&quot;, &quot;Auf Staging-Server bereitgestellt&quot;, &quot;Abnahme fehlgeschlagen&quot;, &quot;Aufgabe in Arbeit&quot;, &quot;Offen/Schätzung ausstehend&quot;, &quot;Warten auf Beauftragung&quot;) AND assignee in (currentUser())" />
+      <option name="shouldFormatCommitMessage" value="false" />
+      <option name="useHttpAuthentication" value="true" />
+      <option name="useProxy" value="false" />
+      <username>jonathan.kieling</username>
+    </JIRA>
+  </component>
 </application>

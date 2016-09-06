@@ -1,7 +1,8 @@
 <application>
-  <component name="FileTypeManager" version="16">
+  <component name="FileTypeManager" version="17">
     <extensionMap>
       <mapping pattern="JobMarketCommandController" type="PHP" />
+      <mapping pattern="ShowSavedSearches.html" type="PLAIN_TEXT" />
       <mapping ext="ical" type="PLAIN_TEXT" />
       <mapping ext="xlf" type="PLAIN_TEXT" />
       <removed_mapping ext="ts" type="TypeScript" />

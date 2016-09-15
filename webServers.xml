@@ -1,0 +1,14 @@
+<application>
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="8ac434bb-8c1e-4d7f-a572-661a5b696091" name="Starface" url="http://192.168.0.85">
+        <fileTransfer host="192.168.0.85" port="22" accessType="SFTP" password="dfdddfcfdfd8dfc1dfd8dfcbdfdfdfc7dfd9dfdedfcbdfd8dfccdfcbdfc9dfcfdf99df9ddf9adf92" username="jonathan">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</application>

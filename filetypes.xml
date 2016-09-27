@@ -10,6 +10,7 @@
       <mapping pattern="*setup.txt" type="TypoScript File" />
       <mapping pattern="*constant.txt" type="TypoScript File" />
       <mapping ext="ts" type="TypoScript File" />
+      <mapping ext="tmpl" type="XHTML" />
     </extensionMap>
   </component>
 </application>

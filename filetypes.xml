@@ -3,6 +3,7 @@
     <extensionMap>
       <mapping pattern="JobMarketCommandController" type="PHP" />
       <mapping pattern="ShowSavedSearches.html" type="PLAIN_TEXT" />
+      <mapping pattern=".htaccess.bak" type="PLAIN_TEXT" />
       <mapping pattern="test" type="PLAIN_TEXT" />
       <mapping ext="ical" type="PLAIN_TEXT" />
       <mapping ext="xlf" type="PLAIN_TEXT" />

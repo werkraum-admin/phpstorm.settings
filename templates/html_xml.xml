@@ -2,7 +2,6 @@
   <template name="debug" value="{$VAR$ -&gt; f:debug()}" description="Fluid Debug" toReformat="true" toShortenFQNames="true">
     <variable name="VAR" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
-      <option name="HTML_TEXT" value="true" />
       <option name="HTML" value="true" />
     </context>
   </template>

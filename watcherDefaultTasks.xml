@@ -101,7 +101,7 @@
       <option name="workingDir" value="$USER_HOME$/Netzwerk/Starface/jade.werkraum.lan/httpdocs/PRODATA/Resources/Public/less" />
       <envs />
     </TaskOptions>
-    <TaskOptions isEnabled="true">
+    <TaskOptions isEnabled="false">
       <option name="arguments" value="$FilePath$" />
       <option name="checkSyntaxErrors" value="true" />
       <option name="description" value="Transpiles ECMAScript 6 code to ECMAScript 5" />
@@ -118,6 +118,44 @@
       <option name="scopeName" value="Project Files" />
       <option name="trackOnlyRoot" value="true" />
       <option name="workingDir" value="$FileDir$" />
+      <envs />
+    </TaskOptions>
+    <TaskOptions isEnabled="true">
+      <option name="arguments" value="run build" />
+      <option name="checkSyntaxErrors" value="true" />
+      <option name="description" value="" />
+      <option name="exitCodeBehavior" value="ERROR" />
+      <option name="fileExtension" value="jsx" />
+      <option name="immediateSync" value="true" />
+      <option name="name" value="" />
+      <option name="output" value="" />
+      <option name="outputFilters">
+        <array />
+      </option>
+      <option name="outputFromStdout" value="false" />
+      <option name="program" value="npm" />
+      <option name="scopeName" value="Project Files" />
+      <option name="trackOnlyRoot" value="false" />
+      <option name="workingDir" value="$USER_HOME$/dev/Projekte (lokal)/Imagemap" />
+      <envs />
+    </TaskOptions>
+    <TaskOptions isEnabled="true">
+      <option name="arguments" value="run build" />
+      <option name="checkSyntaxErrors" value="true" />
+      <option name="description" value="" />
+      <option name="exitCodeBehavior" value="ERROR" />
+      <option name="fileExtension" value="jsx" />
+      <option name="immediateSync" value="true" />
+      <option name="name" value="Browserfy" />
+      <option name="output" value="" />
+      <option name="outputFilters">
+        <array />
+      </option>
+      <option name="outputFromStdout" value="false" />
+      <option name="program" value="npm" />
+      <option name="scopeName" value="Project Files" />
+      <option name="trackOnlyRoot" value="false" />
+      <option name="workingDir" value="$USER_HOME$/dev/Projekte (lokal)/Imagemap" />
       <envs />
     </TaskOptions>
   </component>

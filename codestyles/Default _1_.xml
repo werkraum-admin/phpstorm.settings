@@ -14,6 +14,9 @@
   <option name="KEEP_BLANK_LINES_IN_DECLARATIONS" value="0" />
   <option name="KEEP_BLANK_LINES_IN_CODE" value="1" />
   <option name="KEEP_BLANK_LINES_BEFORE_RBRACE" value="0" />
+  <MarkdownNavigatorCodeStyleSettings>
+    <option name="RIGHT_MARGIN" value="72" />
+  </MarkdownNavigatorCodeStyleSettings>
   <PHPCodeStyleSettings>
     <option name="LOWER_CASE_BOOLEAN_CONST" value="true" />
     <option name="LOWER_CASE_NULL_CONST" value="true" />

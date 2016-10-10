@@ -177,5 +177,24 @@
       <option name="workingDir" value="$FileDir$" />
       <envs />
     </TaskOptions>
+    <TaskOptions isEnabled="true">
+      <option name="arguments" value="compile /home/jonathan/Netzwerk/Starface/taome.werkraum.lan/httpdocs/fileadmin/Resources/Private/Scss" />
+      <option name="checkSyntaxErrors" value="true" />
+      <option name="description" value="Compiles .sass files into .css files using compass" />
+      <option name="exitCodeBehavior" value="ERROR" />
+      <option name="fileExtension" value="scss" />
+      <option name="immediateSync" value="true" />
+      <option name="name" value="Compass Sass" />
+      <option name="output" value="compile /home/jonathan/Netzwerk/Starface/taome.werkraum.lan/httpdocs/fileadmin/Resources/Public/Css/All.css" />
+      <option name="outputFilters">
+        <array />
+      </option>
+      <option name="outputFromStdout" value="false" />
+      <option name="program" value="compass" />
+      <option name="scopeName" value="Project Files" />
+      <option name="trackOnlyRoot" value="true" />
+      <option name="workingDir" value="$FileDir$" />
+      <envs />
+    </TaskOptions>
   </component>
 </application>

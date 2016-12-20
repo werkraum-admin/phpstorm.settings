@@ -2,11 +2,12 @@
   <component name="FileTypeManager" version="17">
     <extensionMap>
       <mapping pattern="JobMarketCommandController" type="PHP" />
-      <mapping pattern="ShowSavedSearches.html" type="PLAIN_TEXT" />
       <mapping pattern="test" type="PLAIN_TEXT" />
       <mapping pattern=".htpasswd" type="PLAIN_TEXT" />
+      <mapping pattern="databaseConnection" type="PLAIN_TEXT" />
       <mapping pattern="storage" type="PLAIN_TEXT" />
       <mapping pattern="ini" type="PLAIN_TEXT" />
+      <mapping pattern="ShowSavedSearches.html" type="PLAIN_TEXT" />
       <mapping pattern=".htaccess.bak20161202" type="PLAIN_TEXT" />
       <mapping pattern=".htaccess.bak" type="PLAIN_TEXT" />
       <mapping ext="ical" type="PLAIN_TEXT" />

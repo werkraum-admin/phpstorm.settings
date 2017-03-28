@@ -1,9 +1,9 @@
 <application>
   <component name="FindSettings">
     <option name="caseSensitive" value="true" />
-    <option name="customScope" value="Directory '[Brossmer] - /home/jonathan/starface3/brossmer.dev/httpdocs/typo3conf/ext/wrmailchimp'" />
-    <option name="defaultScopeName" value="Directory '[Brossmer] - /home/jonathan/starface3/brossmer.dev/httpdocs/typo3conf/ext/wrmailchimp'" />
+    <option name="customScope" value="All Places" />
+    <option name="defaultScopeName" value="All Places" />
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
-    <option name="SEARCH_SCOPE" value="Directory '[Brossmer] - /home/jonathan/starface3/brossmer.dev/httpdocs/typo3conf/ext/wrmailchimp'" />
+    <option name="SEARCH_SCOPE" value="All Places" />
   </component>
 </application>

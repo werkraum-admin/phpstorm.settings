@@ -159,14 +159,14 @@
       <envs />
     </TaskOptions>
     <TaskOptions isEnabled="true">
-      <option name="arguments" value="--no-cache --update $FileName$:$FileNameWithoutExtension$.css" />
+      <option name="arguments" value="--no-cache --update main.scss" />
       <option name="checkSyntaxErrors" value="true" />
       <option name="description" />
       <option name="exitCodeBehavior" value="ERROR" />
       <option name="fileExtension" value="scss" />
       <option name="immediateSync" value="true" />
       <option name="name" value="SCSS" />
-      <option name="output" value="$FileNameWithoutExtension$.css:$FileNameWithoutExtension$.css.map" />
+      <option name="output" value="../../../Public/css/main.css:../../../Public/css/main.css.map" />
       <option name="outputFilters">
         <array />
       </option>
@@ -174,7 +174,7 @@
       <option name="program" value="$USER_HOME$/.rvm/gems/ruby-2.3.0/bin/scss" />
       <option name="scopeName" value="Current File" />
       <option name="trackOnlyRoot" value="true" />
-      <option name="workingDir" value="$FileDir$" />
+      <option name="workingDir" value="$USER_HOME$/starface3/suewag.dev/httpdocs/typo3conf/ext/suewag/Resources/Private/Assets/Scss" />
       <envs />
     </TaskOptions>
     <TaskOptions isEnabled="true">

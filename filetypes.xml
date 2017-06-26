@@ -7,6 +7,7 @@
       <mapping pattern=".htaccess.bak" type="PLAIN_TEXT" />
       <mapping pattern="ENABLE_INSTALL_TOOL" type="PLAIN_TEXT" />
       <mapping pattern="_content.scss" type="PLAIN_TEXT" />
+      <mapping pattern="WrQuestionnaire" type="PLAIN_TEXT" />
       <mapping pattern=".htaccess.bak20161202" type="PLAIN_TEXT" />
       <mapping pattern="storage" type="PLAIN_TEXT" />
       <mapping pattern="test" type="PLAIN_TEXT" />

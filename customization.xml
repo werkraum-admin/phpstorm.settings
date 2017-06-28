@@ -83,6 +83,13 @@
       <path value="Main Toolbar" />
       <option name="myInitialPosition" value="-1" />
     </group>
+    <group value="CheckinProject" is_action="true" action_type="-1" position="1">
+      <path value="root" />
+      <path value="Main Toolbar" />
+      <path value="MainToolBarSettings" />
+      <path value="VCS Actions" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
     <group value="OpenFile" is_action="true" action_type="-1" position="0">
       <path value="root" />
       <path value="Main Toolbar" />
@@ -100,7 +107,14 @@
       <path value="Main Toolbar" />
       <option name="myInitialPosition" value="-1" />
     </group>
-    <group value="Vcs.UpdateProject" is_action="true" action_type="1" position="1">
+    <group value="Vcs.Push" is_action="true" action_type="1" position="0">
+      <path value="root" />
+      <path value="Main Toolbar" />
+      <path value="MainToolBarSettings" />
+      <path value="VCS Actions" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="Git.Pull" is_action="true" action_type="1" position="1">
       <path value="root" />
       <path value="Main Toolbar" />
       <path value="MainToolBarSettings" />

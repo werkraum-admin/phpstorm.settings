@@ -128,21 +128,28 @@
       <path value="VCS Actions" />
       <option name="myInitialPosition" value="-1" />
     </group>
-    <group value="Git.Merge" is_action="true" action_type="1" position="3">
+    <group value="Git.Branches" is_action="true" action_type="1" position="3">
       <path value="root" />
       <path value="Main Toolbar" />
       <path value="MainToolBarSettings" />
       <path value="VCS Actions" />
       <option name="myInitialPosition" value="-1" />
     </group>
-    <group value="Vcs.Push" is_action="true" action_type="1" position="4">
+    <group value="Git.Merge" is_action="true" action_type="1" position="4">
       <path value="root" />
       <path value="Main Toolbar" />
       <path value="MainToolBarSettings" />
       <path value="VCS Actions" />
       <option name="myInitialPosition" value="-1" />
     </group>
-    <group value="Git.Pull" is_action="true" action_type="1" position="5">
+    <group value="Vcs.Push" is_action="true" action_type="1" position="5">
+      <path value="root" />
+      <path value="Main Toolbar" />
+      <path value="MainToolBarSettings" />
+      <path value="VCS Actions" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="Git.Pull" is_action="true" action_type="1" position="6">
       <path value="root" />
       <path value="Main Toolbar" />
       <path value="MainToolBarSettings" />

@@ -1,8 +1,8 @@
 <application>
   <component name="WebServers">
     <option name="servers">
-      <webServer id="8ac434bb-8c1e-4d7f-a572-661a5b696091" name="old.starface" url="http://192.168.0.85">
-        <fileTransfer host="192.168.0.85" port="22" accessType="SFTP">
+      <webServer id="8ac434bb-8c1e-4d7f-a572-661a5b696091" name="werkraumhosting S6" url="http://exxeta.werkraumhosting.net">
+        <fileTransfer host="exxeta.werkraumhosting.net" port="22" rootFolder="/kunden/367901_76133/webseiten/werkraumhosting.net/exxeta" accessType="SFTP">
           <advancedOptions>
             <advancedOptions dataProtectionLevel="Private" />
           </advancedOptions>

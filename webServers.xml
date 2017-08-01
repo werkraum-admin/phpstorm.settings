@@ -9,9 +9,6 @@
           <option name="port" value="22" />
         </fileTransfer>
       </webServer>
-      <webServer id="9ec14c96-8589-418d-8c1e-57f63cdb1551" name="Regupedia" url="http://regupedia.dev">
-        <fileTransfer port="0" accessType="LOCAL" />
-      </webServer>
     </option>
   </component>
 </application>

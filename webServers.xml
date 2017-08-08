@@ -2,7 +2,7 @@
   <component name="WebServers">
     <option name="servers">
       <webServer id="a9ca7271-6025-4530-a7ea-c3516b066f6d" name="starface" url="http://192.168.0.111">
-        <fileTransfer host="192.168.0.111" port="22" privateKey="$USER_HOME$/.ssh/jonathan.starface" accessType="SFTP" keyPair="true">
+        <fileTransfer host="192.168.0.111" port="22" privateKey="$USER_HOME$/.ssh/jonathan.starface" rootFolder="/var/www/sovendus.dev" accessType="SFTP" keyPair="true">
           <advancedOptions>
             <advancedOptions dataProtectionLevel="Private" />
           </advancedOptions>

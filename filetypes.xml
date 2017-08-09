@@ -15,6 +15,7 @@
       <mapping pattern=".htpasswd" type="PLAIN_TEXT" />
       <mapping pattern="ini" type="PLAIN_TEXT" />
       <mapping ext="ical" type="PLAIN_TEXT" />
+      <mapping ext="md" type="PLAIN_TEXT" />
       <mapping ext="xlf" type="PLAIN_TEXT" />
       <mapping ext="sxw" type="PLAIN_TEXT" />
       <mapping ext="t3d" type="PLAIN_TEXT" />

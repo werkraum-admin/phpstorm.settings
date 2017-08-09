@@ -13,6 +13,7 @@
       <mapping pattern="storage" type="PLAIN_TEXT" />
       <mapping pattern="test" type="PLAIN_TEXT" />
       <mapping pattern=".htpasswd" type="PLAIN_TEXT" />
+      <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
       <mapping pattern="ini" type="PLAIN_TEXT" />
       <mapping ext="ical" type="PLAIN_TEXT" />
       <mapping ext="md" type="PLAIN_TEXT" />

@@ -4,6 +4,11 @@
     <option name="FONT_SCALE" value="1.25" />
   </component>
   <component name="EditorSettings">
+    <option name="languageBreadcrumbsMap">
+      <map>
+        <entry key="yaml" value="true" />
+      </map>
+    </option>
     <option name="USE_SOFT_WRAPS" value="" />
     <option name="IS_WHITESPACES_SHOWN" value="true" />
     <option name="IS_CAMEL_WORDS" value="true" />
